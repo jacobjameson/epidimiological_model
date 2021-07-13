@@ -12,7 +12,7 @@ Exit rate from infected population (mortality rate) (\delta_I): 2.000%
 
 Arrival of new susceptible people into the population (\theta): 10 people per month
 
-Rate of risk encounters per month (\lamda): 1/month
+Rate of risk encounters per month ($\lamda$): 1/month
 
 Infection efficiency (K)--the probability that transmission of infection occurs when an infected and uninfected person mix absent intervention: 0.04
 
